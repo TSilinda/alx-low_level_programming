@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 git add . && git commit -m "änother one" && git push
+=======
+git add . && git commit -m "nested loops assignemnt amenment" && git push
+>>>>>>> e1ba823aa0cde245ada2db5654eb44d00aaa2ccc
