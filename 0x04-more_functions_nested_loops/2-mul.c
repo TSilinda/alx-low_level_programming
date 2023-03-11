@@ -1,7 +1,7 @@
 /*
- * mul - Multiplies two integers
- * @a: multiplicant 1
- * @b: multiplicant 2
+ * mul() - Multiplies two integers
+ * @a: multiplicant one
+ * @b: multiplicant two
  * Return: The result of the multiplication
  */
 int mul(int a, int b)
