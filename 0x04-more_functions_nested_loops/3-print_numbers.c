@@ -1,5 +1,5 @@
 /*
- * print_numbers - prints numbers 0 to 9, follwed by a new line
+ * print_numbers - Prints numbers 0 to 9, follwed by a new line
  * Return:0
  */
 void print_numbers(void)
@@ -10,7 +10,7 @@ void print_numbers(void)
 
 	for (i = 0; i < 10; i++)
 	{
-		_putchar(i + '10');
+		_putchar(i + '0');
 	}
 	_putchar('\n');
 }
